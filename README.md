@@ -7,3 +7,7 @@ Conducted a detailed customer analysis for a travel agency using Tableau and pre
 - Advanced data analysis and visualization
 - Strategic thinking and business acumen
 - Effective communication and report writing
+
+
+### DATA SET:
+https://github.com/mayahbosworth/TravelAgencyDataVisualization/blob/main/Travel.xls
